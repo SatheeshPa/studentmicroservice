@@ -1,0 +1,6 @@
+projectKey=com.example:student
+serverUrl=http://127.0.0.1:9000
+serverVersion=7.4.0.18908
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=com.example%3Astudent
+ceTaskId=AXAdFs8QwoSvL-dkv-ed
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AXAdFs8QwoSvL-dkv-ed
